@@ -1,4 +1,4 @@
-![header](.\header.png)
+![header](https://github.com/BrunoOmoreshi/samsung_ocean_android_push_c_firebase/blob/main/header.png)
 
 # Android: Push Notification com Firebase
 
@@ -28,13 +28,13 @@ No próprio android studio há um tutorial para isso, que pode ser seguido. Esse
 
 A imagem a seguir mostra a  subscrição no canal assim que o app abre.
 
-![app_inscrito](.\app_inscrito.png)
+![app_inscrito](https://github.com/BrunoOmoreshi/samsung_ocean_android_push_c_firebase/blob/main/app_inscrito.png)
 
 Aqui vemos o projeto hospedado no Firebase que é onde será feito o envio de notificações para o app instalado no emulador.
 
-![fb_screen](.\fb_screen.png)
+![fb_screen](https://github.com/BrunoOmoreshi/samsung_ocean_android_push_c_firebase/blob/main/fb_screen.png)
 
 Dashboard para envio de push notifications ao app. É possível o envio para canais específicos que tenham sido criados e que hajam usuários inscritos. O Firebase tem ferramentas bastante completas sobre o envio e também estatísticas de leituras.
 
-![fb_dashboard](.\fb_dashboard.png)
+![fb_dashboard](https://github.com/BrunoOmoreshi/samsung_ocean_android_push_c_firebase/blob/main/fb_dashboard.png)
 
